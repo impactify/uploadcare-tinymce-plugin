@@ -1,1 +1,0 @@
-# uploadcare-tinymce-plugin
