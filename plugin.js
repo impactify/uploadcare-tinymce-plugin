@@ -8,9 +8,7 @@
 (function () {
   'use strict';
 
-  var icon = "\n<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0,0,256,256"
-style="fill:#000000;">
-<g fill="#517dff" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(10.66667,10.66667)"><path d="M4,4c-1.09306,0 -2,0.90694 -2,2v12c0,1.09306 0.90694,2 2,2h8v-2h-8v-12h16v6h2v-6c0,-1.09306 -0.90694,-2 -2,-2zM14.5,11l-3.5,4l-2.5,-2.5l-2.72266,3.5h10.22266v-3zM18,14v4h-4v2h4v4h2v-4h4v-2h-4v-4z"></path></g></g>\n";
+  var icon = "\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 80 80\">\n  <path fill=\"#FFD800\" fill-rule=\"evenodd\" d=\"M32,64 C14.326888,64 0,49.673112 0,32 C0,14.326888 14.326888,0 32,0 C49.673112,0 64,14.326888 64,32 C64,49.673112 49.673112,64 32,64 Z M32,34.7654321 C33.527306,34.7654321 34.7654321,33.527306 34.7654321,32 C34.7654321,30.472694 33.527306,29.2345679 32,29.2345679 C30.472694,29.2345679 29.2345679,30.472694 29.2345679,32 C29.2345679,33.527306 30.472694,34.7654321 32,34.7654321 Z\" transform=\"translate(8 8)\"/>\n</svg>\n";
 
   /* global tinymce, uploadcare */
 
